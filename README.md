@@ -31,3 +31,14 @@ Step 5
 
 I will select the best model and make predictions and evaluate them by comparing them to expected results in the test set. I will also calculate the confusion matrix to know the accuracy of the best performing model. Throughout the project, I will be using different visualizations like multivariate plots to present the results of different models and best performing model as well. 
 
+Below is how my datasets looks like for every year. Dystopia is an imaginary country that has the world’s least happy people. Dystopia was established for other countries to be favorably compared to it. 
+ 
+
+
+![happy_2015](https://user-images.githubusercontent.com/98835048/163631854-66b9eee1-91f2-46c7-b19a-83d4b6ca650e.png)
+
+Link to data on kaggle
+
+https://www.kaggle.com/datasets/mathurinache/world-happiness-report
+
+
